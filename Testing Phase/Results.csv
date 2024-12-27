@@ -1,0 +1,301 @@
+,model,text,output
+0,gpt-4o,Text 1 ,Highly appropriate
+1,gpt-4o,Text 1 ,Highly appropriate
+2,gpt-4o,Text 1 ,Highly appropriate
+3,gpt-4o,Text 1 ,Highly appropriate
+4,gpt-4o,Text 1 ,Highly appropriate
+5,gpt-4o,Text 2 ,Highly inappropriate
+6,gpt-4o,Text 2 ,Highly inappropriate
+7,gpt-4o,Text 2 ,Highly inappropriate
+8,gpt-4o,Text 2 ,Highly inappropriate
+9,gpt-4o,Text 2 ,Highly inappropriate
+10,gpt-4o,Text 3 ,Highly appropriate
+11,gpt-4o,Text 3 ,Highly appropriate
+12,gpt-4o,Text 3 ,Highly appropriate
+13,gpt-4o,Text 3 ,Highly appropriate
+14,gpt-4o,Text 3 ,Highly appropriate
+15,gpt-4o,Text 4 ,Highly inappropriate
+16,gpt-4o,Text 4 ,Highly inappropriate
+17,gpt-4o,Text 4 ,Highly inappropriate
+18,gpt-4o,Text 4 ,Highly inappropriate
+19,gpt-4o,Text 4 ,Highly inappropriate
+20,gpt-4o,Text 5 ,Highly inappropriate
+21,gpt-4o,Text 5 ,Highly inappropriate
+22,gpt-4o,Text 5 ,Highly inappropriate
+23,gpt-4o,Text 5 ,Highly inappropriate
+24,gpt-4o,Text 5 ,Highly inappropriate
+25,gpt-4o,Text 6 ,Inappropriate
+26,gpt-4o,Text 6 ,Partially appropriate
+27,gpt-4o,Text 6 ,Mostly appropriate
+28,gpt-4o,Text 6 ,Inappropriate
+29,gpt-4o,Text 6 ,Inappropriate
+30,gpt-4o,Text 7 ,Highly inappropriate
+31,gpt-4o,Text 7 ,Inappropriate
+32,gpt-4o,Text 7 ,Highly inappropriate
+33,gpt-4o,Text 7 ,Highly inappropriate
+34,gpt-4o,Text 7 ,Inappropriate
+35,gpt-4o,Text 8 ,Highly appropriate
+36,gpt-4o,Text 8 ,Highly appropriate
+37,gpt-4o,Text 8 ,Highly appropriate
+38,gpt-4o,Text 8 ,Highly appropriate
+39,gpt-4o,Text 8 ,Highly appropriate
+40,gpt-4o,Text 9 ,Highly appropriate
+41,gpt-4o,Text 9 ,Highly appropriate
+42,gpt-4o,Text 9 ,Highly appropriate
+43,gpt-4o,Text 9 ,Highly appropriate
+44,gpt-4o,Text 9 ,Highly appropriate
+45,gpt-4o,Text 10,Mostly appropriate
+46,gpt-4o,Text 10,Mostly appropriate
+47,gpt-4o,Text 10,Mostly appropriate
+48,gpt-4o,Text 10,Mostly appropriate
+49,gpt-4o,Text 10,Mostly appropriate
+50,gpt-4o,Text 11,Highly appropriate
+51,gpt-4o,Text 11,Highly appropriate
+52,gpt-4o,Text 11,Highly appropriate
+53,gpt-4o,Text 11,Highly appropriate
+54,gpt-4o,Text 11,Highly appropriate
+55,gpt-4o,Text 12,Mostly appropriate
+56,gpt-4o,Text 12,Mostly appropriate
+57,gpt-4o,Text 12,Mostly appropriate
+58,gpt-4o,Text 12,Mostly appropriate
+59,gpt-4o,Text 12,Mostly appropriate
+60,gpt-4o,Text 13,Mostly appropriate
+61,gpt-4o,Text 13,Mostly appropriate
+62,gpt-4o,Text 13,Mostly appropriate
+63,gpt-4o,Text 13,Mostly appropriate
+64,gpt-4o,Text 13,Mostly appropriate
+65,gpt-4o,Text 14,Partially appropriate
+66,gpt-4o,Text 14,Inappropriate
+67,gpt-4o,Text 14,Inappropriate
+68,gpt-4o,Text 14,Inappropriate
+69,gpt-4o,Text 14,Inappropriate
+70,gpt-4o,Text 15,Highly inappropriate
+71,gpt-4o,Text 15,Highly inappropriate
+72,gpt-4o,Text 15,Highly inappropriate
+73,gpt-4o,Text 15,Highly inappropriate
+74,gpt-4o,Text 15,Highly inappropriate
+75,gpt-4o-mini,Text 1 ,Highly appropriate
+76,gpt-4o-mini,Text 1 ,Highly appropriate
+77,gpt-4o-mini,Text 1 ,Highly appropriate
+78,gpt-4o-mini,Text 1 ,Highly appropriate
+79,gpt-4o-mini,Text 1 ,Highly appropriate
+80,gpt-4o-mini,Text 2 ,Highly inappropriate
+81,gpt-4o-mini,Text 2 ,Highly inappropriate
+82,gpt-4o-mini,Text 2 ,Highly inappropriate
+83,gpt-4o-mini,Text 2 ,Highly inappropriate
+84,gpt-4o-mini,Text 2 ,Highly inappropriate
+85,gpt-4o-mini,Text 3 ,Highly appropriate
+86,gpt-4o-mini,Text 3 ,Highly appropriate
+87,gpt-4o-mini,Text 3 ,Mostly appropriate
+88,gpt-4o-mini,Text 3 ,Highly appropriate
+89,gpt-4o-mini,Text 3 ,Highly appropriate
+90,gpt-4o-mini,Text 4 ,Highly inappropriate
+91,gpt-4o-mini,Text 4 ,Highly inappropriate
+92,gpt-4o-mini,Text 4 ,Highly inappropriate
+93,gpt-4o-mini,Text 4 ,Highly inappropriate
+94,gpt-4o-mini,Text 4 ,Highly inappropriate
+95,gpt-4o-mini,Text 5 ,Highly inappropriate
+96,gpt-4o-mini,Text 5 ,Highly inappropriate
+97,gpt-4o-mini,Text 5 ,Highly inappropriate
+98,gpt-4o-mini,Text 5 ,Highly inappropriate
+99,gpt-4o-mini,Text 5 ,Highly inappropriate
+100,gpt-4o-mini,Text 6 ,Highly inappropriate
+101,gpt-4o-mini,Text 6 ,Highly inappropriate
+102,gpt-4o-mini,Text 6 ,Highly inappropriate
+103,gpt-4o-mini,Text 6 ,Highly inappropriate
+104,gpt-4o-mini,Text 6 ,Highly inappropriate
+105,gpt-4o-mini,Text 7 ,Partially appropriate
+106,gpt-4o-mini,Text 7 ,Inappropriate
+107,gpt-4o-mini,Text 7 ,Partially appropriate
+108,gpt-4o-mini,Text 7 ,Partially appropriate
+109,gpt-4o-mini,Text 7 ,Inappropriate
+110,gpt-4o-mini,Text 8 ,Mostly appropriate
+111,gpt-4o-mini,Text 8 ,Mostly appropriate
+112,gpt-4o-mini,Text 8 ,Mostly appropriate
+113,gpt-4o-mini,Text 8 ,Mostly appropriate
+114,gpt-4o-mini,Text 8 ,Mostly appropriate
+115,gpt-4o-mini,Text 9 ,Highly appropriate
+116,gpt-4o-mini,Text 9 ,Highly appropriate
+117,gpt-4o-mini,Text 9 ,Highly appropriate
+118,gpt-4o-mini,Text 9 ,Highly appropriate
+119,gpt-4o-mini,Text 9 ,Highly appropriate
+120,gpt-4o-mini,Text 10,Mostly appropriate
+121,gpt-4o-mini,Text 10,Highly appropriate
+122,gpt-4o-mini,Text 10,Highly appropriate
+123,gpt-4o-mini,Text 10,Highly appropriate
+124,gpt-4o-mini,Text 10,Highly appropriate
+125,gpt-4o-mini,Text 11,Highly appropriate
+126,gpt-4o-mini,Text 11,Highly appropriate
+127,gpt-4o-mini,Text 11,Highly appropriate
+128,gpt-4o-mini,Text 11,Highly appropriate
+129,gpt-4o-mini,Text 11,Highly appropriate
+130,gpt-4o-mini,Text 12,Highly appropriate
+131,gpt-4o-mini,Text 12,Highly appropriate
+132,gpt-4o-mini,Text 12,Highly appropriate
+133,gpt-4o-mini,Text 12,Highly appropriate
+134,gpt-4o-mini,Text 12,Highly appropriate
+135,gpt-4o-mini,Text 13,Partially appropriate
+136,gpt-4o-mini,Text 13,Partially appropriate
+137,gpt-4o-mini,Text 13,Partially appropriate
+138,gpt-4o-mini,Text 13,Partially appropriate
+139,gpt-4o-mini,Text 13,Partially appropriate
+140,gpt-4o-mini,Text 14,Partially appropriate
+141,gpt-4o-mini,Text 14,Partially appropriate
+142,gpt-4o-mini,Text 14,Partially appropriate
+143,gpt-4o-mini,Text 14,Partially appropriate
+144,gpt-4o-mini,Text 14,Partially appropriate
+145,gpt-4o-mini,Text 15,Inappropriate
+146,gpt-4o-mini,Text 15,Highly inappropriate
+147,gpt-4o-mini,Text 15,Highly inappropriate
+148,gpt-4o-mini,Text 15,Inappropriate
+149,gpt-4o-mini,Text 15,Highly inappropriate
+150,o1-mini,Text 1 ,Highly appropriate
+151,o1-mini,Text 1 ,Highly appropriate
+152,o1-mini,Text 1 ,Highly appropriate
+153,o1-mini,Text 1 ,Highly appropriate
+154,o1-mini,Text 1 ,Highly appropriate
+155,o1-mini,Text 2 ,Highly inappropriate
+156,o1-mini,Text 2 ,Highly inappropriate
+157,o1-mini,Text 2 ,Highly inappropriate
+158,o1-mini,Text 2 ,Partially appropriate
+159,o1-mini,Text 2 ,Highly inappropriate
+160,o1-mini,Text 3 ,Highly appropriate
+161,o1-mini,Text 3 ,Highly appropriate
+162,o1-mini,Text 3 ,Highly appropriate
+163,o1-mini,Text 3 ,Highly appropriate
+164,o1-mini,Text 3 ,Highly appropriate
+165,o1-mini,Text 4 ,Partially appropriate
+166,o1-mini,Text 4 ,Partially appropriate
+167,o1-mini,Text 4 ,Partially appropriate
+168,o1-mini,Text 4 ,Inappropriate
+169,o1-mini,Text 4 ,Partially appropriate
+170,o1-mini,Text 5 ,Inappropriate
+171,o1-mini,Text 5 ,Partially appropriate
+172,o1-mini,Text 5 ,Inappropriate
+173,o1-mini,Text 5 ,Partially appropriate
+174,o1-mini,Text 5 ,Partially appropriate
+175,o1-mini,Text 6 ,Partially appropriate
+176,o1-mini,Text 6 ,Partially appropriate
+177,o1-mini,Text 6 ,Highly inappropriate
+178,o1-mini,Text 6 ,Mostly appropriate
+179,o1-mini,Text 6 ,Mostly appropriate
+180,o1-mini,Text 7 ,Mostly appropriate
+181,o1-mini,Text 7 ,Inappropriate
+182,o1-mini,Text 7 ,Partially appropriate
+183,o1-mini,Text 7 ,Partially appropriate
+184,o1-mini,Text 7 ,Partially appropriate
+185,o1-mini,Text 8 ,Mostly appropriate
+186,o1-mini,Text 8 ,Highly appropriate
+187,o1-mini,Text 8 ,Mostly appropriate
+188,o1-mini,Text 8 ,Mostly appropriate
+189,o1-mini,Text 8 ,Mostly appropriate
+190,o1-mini,Text 9 ,Mostly appropriate
+191,o1-mini,Text 9 ,Highly appropriate
+192,o1-mini,Text 9 ,Highly appropriate
+193,o1-mini,Text 9 ,Highly appropriate
+194,o1-mini,Text 9 ,Mostly appropriate
+195,o1-mini,Text 10,Mostly appropriate
+196,o1-mini,Text 10,Mostly appropriate
+197,o1-mini,Text 10,Highly appropriate
+198,o1-mini,Text 10,Highly appropriate
+199,o1-mini,Text 10,Partially appropriate
+200,o1-mini,Text 11,Mostly appropriate
+201,o1-mini,Text 11,Mostly appropriate
+202,o1-mini,Text 11,Mostly appropriate
+203,o1-mini,Text 11,Mostly appropriate
+204,o1-mini,Text 11,Highly appropriate
+205,o1-mini,Text 12,Mostly appropriate
+206,o1-mini,Text 12,Mostly appropriate
+207,o1-mini,Text 12,Highly appropriate
+208,o1-mini,Text 12,Highly appropriate
+209,o1-mini,Text 12,Mostly appropriate
+210,o1-mini,Text 13,Highly appropriate
+211,o1-mini,Text 13,Mostly appropriate
+212,o1-mini,Text 13,Mostly appropriate
+213,o1-mini,Text 13,Mostly appropriate
+214,o1-mini,Text 13,Partially appropriate
+215,o1-mini,Text 14,Partially appropriate
+216,o1-mini,Text 14,Partially appropriate
+217,o1-mini,Text 14,Mostly appropriate
+218,o1-mini,Text 14,Partially appropriate
+219,o1-mini,Text 14,Partially appropriate
+220,o1-mini,Text 15,Inappropriate
+221,o1-mini,Text 15,Highly inappropriate
+222,o1-mini,Text 15,Inappropriate
+223,o1-mini,Text 15,Inappropriate
+224,o1-mini,Text 15,Partially appropriate
+225,gpt-4-turbo,Text 1 ,Highly appropriate
+226,gpt-4-turbo,Text 1 ,Highly appropriate
+227,gpt-4-turbo,Text 1 ,Highly appropriate
+228,gpt-4-turbo,Text 1 ,Highly appropriate
+229,gpt-4-turbo,Text 1 ,Highly appropriate
+230,gpt-4-turbo,Text 2 ,Highly inappropriate
+231,gpt-4-turbo,Text 2 ,Highly inappropriate
+232,gpt-4-turbo,Text 2 ,Highly inappropriate
+233,gpt-4-turbo,Text 2 ,Highly inappropriate
+234,gpt-4-turbo,Text 2 ,Highly inappropriate
+235,gpt-4-turbo,Text 3 ,Highly appropriate
+236,gpt-4-turbo,Text 3 ,Highly appropriate
+237,gpt-4-turbo,Text 3 ,Highly appropriate
+238,gpt-4-turbo,Text 3 ,Highly appropriate
+239,gpt-4-turbo,Text 3 ,Highly appropriate
+240,gpt-4-turbo,Text 4 ,Inappropriate
+241,gpt-4-turbo,Text 4 ,Inappropriate
+242,gpt-4-turbo,Text 4 ,Inappropriate
+243,gpt-4-turbo,Text 4 ,Inappropriate
+244,gpt-4-turbo,Text 4 ,Inappropriate
+245,gpt-4-turbo,Text 5 ,Highly inappropriate
+246,gpt-4-turbo,Text 5 ,Inappropriate
+247,gpt-4-turbo,Text 5 ,Inappropriate
+248,gpt-4-turbo,Text 5 ,Highly inappropriate
+249,gpt-4-turbo,Text 5 ,Inappropriate
+250,gpt-4-turbo,Text 6 ,Inappropriate
+251,gpt-4-turbo,Text 6 ,Partially appropriate
+252,gpt-4-turbo,Text 6 ,Partially appropriate
+253,gpt-4-turbo,Text 6 ,Partially appropriate
+254,gpt-4-turbo,Text 6 ,Partially appropriate
+255,gpt-4-turbo,Text 7 ,Mostly appropriate
+256,gpt-4-turbo,Text 7 ,Partially appropriate
+257,gpt-4-turbo,Text 7 ,Partially appropriate
+258,gpt-4-turbo,Text 7 ,Mostly appropriate
+259,gpt-4-turbo,Text 7 ,Mostly appropriate
+260,gpt-4-turbo,Text 8 ,Highly appropriate
+261,gpt-4-turbo,Text 8 ,Highly appropriate
+262,gpt-4-turbo,Text 8 ,Highly appropriate
+263,gpt-4-turbo,Text 8 ,Mostly appropriate
+264,gpt-4-turbo,Text 8 ,Highly appropriate
+265,gpt-4-turbo,Text 9 ,Highly appropriate
+266,gpt-4-turbo,Text 9 ,Highly appropriate
+267,gpt-4-turbo,Text 9 ,Highly appropriate
+268,gpt-4-turbo,Text 9 ,Highly appropriate
+269,gpt-4-turbo,Text 9 ,Highly appropriate
+270,gpt-4-turbo,Text 10,Mostly appropriate
+271,gpt-4-turbo,Text 10,Mostly appropriate
+272,gpt-4-turbo,Text 10,Mostly appropriate
+273,gpt-4-turbo,Text 10,Mostly appropriate
+274,gpt-4-turbo,Text 10,Highly appropriate
+275,gpt-4-turbo,Text 11,Mostly appropriate
+276,gpt-4-turbo,Text 11,Mostly appropriate
+277,gpt-4-turbo,Text 11,Highly appropriate
+278,gpt-4-turbo,Text 11,Highly appropriate
+279,gpt-4-turbo,Text 11,Mostly appropriate
+280,gpt-4-turbo,Text 12,Mostly appropriate
+281,gpt-4-turbo,Text 12,Mostly appropriate
+282,gpt-4-turbo,Text 12,Mostly appropriate
+283,gpt-4-turbo,Text 12,Highly appropriate
+284,gpt-4-turbo,Text 12,Mostly appropriate
+285,gpt-4-turbo,Text 13,Mostly appropriate
+286,gpt-4-turbo,Text 13,Mostly appropriate
+287,gpt-4-turbo,Text 13,Mostly appropriate
+288,gpt-4-turbo,Text 13,Mostly appropriate
+289,gpt-4-turbo,Text 13,Mostly appropriate
+290,gpt-4-turbo,Text 14,Partially appropriate
+291,gpt-4-turbo,Text 14,Mostly appropriate
+292,gpt-4-turbo,Text 14,Partially appropriate
+293,gpt-4-turbo,Text 14,Partially appropriate
+294,gpt-4-turbo,Text 14,Partially appropriate
+295,gpt-4-turbo,Text 15,Inappropriate
+296,gpt-4-turbo,Text 15,Inappropriate
+297,gpt-4-turbo,Text 15,Inappropriate
+298,gpt-4-turbo,Text 15,Inappropriate
+299,gpt-4-turbo,Text 15,Inappropriate
