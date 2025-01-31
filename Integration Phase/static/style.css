@@ -1,0 +1,214 @@
+/* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  margin: 0;
+  padding: 0;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full height of the viewport */
+  text-align: center; /* Center all text */
+  flex-direction: column;
+}
+
+/* Container */
+.index_container {
+  max-width: 800px;
+  width: 100%;
+  padding: 20px;
+  background-color: #ffffff; /* White background for the container */
+  border-radius: 10px; /* Optional: rounded corners for a smoother appearance */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+}
+
+/* Header */
+header h1 {
+  color: #2c3e50;
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+header p {
+  color: #7a7a7a;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+}
+
+.text-container {
+  max-width: 800px; /* Controls the width of the header */
+  margin: 0 auto;
+  text-align: center; /* Centers the text within the container */
+}
+
+/* Form and Input Styles */
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+input[type="text"] {
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 500px;
+}
+
+input[type="text"]:focus {
+  border-color: #4caf50;
+  outline: none;
+  box-shadow: 0 0 5px rgba(76, 175, 80, 0.3);
+}
+
+button[type="submit"] {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 30%;
+  max-width: 500px;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+/* Error Message */
+.error {
+  color: red;
+  margin-top: 20px;
+}
+
+/* Grid Layout for Result Page */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-content: center; /* Center the grid horizontally */
+}
+
+.box {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 100%;
+  max-width: 350px;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+  text-align: justify;
+  transition: transform 0.2s ease-in-out;
+}
+
+.box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.box h2 {
+  color: #2c3e50;
+  margin-top: 10px;
+}
+
+/* Icons */
+.icon {
+  font-size: 2rem;
+  color: #4caf50;
+  margin-bottom: 10px;
+}
+
+/* Progress Bar Styles */
+.progress-container {
+  background: #eaeaea;
+  border-radius: 8px;
+  overflow: hidden;
+  height: 30px;
+  margin-top: 15px;
+}
+
+.progress-bar {
+  background-color: #4caf50;
+  height: 100%;
+  width: 0;
+  color: white;
+  line-height: 30px;
+  text-align: center;
+  font-size: 14px;
+  border-radius: 8px;
+  transition: width 0.4s ease;
+}
+
+/* Footer */
+footer {
+  margin-top: 30px;
+  color: #7a7a7a;
+  font-size: 0.9rem;
+  text-align: center; /* Center footer text */
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  /* Adjusting grid layout for tablets */
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  /* Adjust the form input and button for smaller screens */
+  input[type="text"],
+  button[type="submit"] {
+    width: 90%; /* Ensure input fields and buttons take up more space */
+    max-width: none;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Stack the grid items vertically on small screens */
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+
+  /* Adjusting the container's padding for smaller screens */
+  .container {
+    padding: 15px;
+  }
+
+  /* Header text adjustment */
+  header h1 {
+    font-size: 2rem;
+  }
+
+  header p {
+    font-size: 1rem;
+  }
+
+  /* Adjust form fields for better readability */
+  input[type="text"],
+  button[type="submit"] {
+    width: 100%; /* Make the input and button full width on small screens */
+    padding: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Make sure buttons and inputs fit better on very small screens */
+  input[type="text"],
+  button[type="submit"] {
+    padding: 14px;
+    font-size: 1.2rem;
+  }
+
+  /* Slightly smaller text for footer */
+  footer {
+    font-size: 0.8rem;
+  }
+}
