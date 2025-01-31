@@ -1,7 +1,7 @@
 # Scripts Used in the Testing Phase
 
 ## **Project Overview**  
-This repository contains the scripts and notebooks used during the **Testing Phase** of the text classification project based on Large Language Models (LLMs). The primary objective of the project is to evaluate and categorize texts according to their suitability for audiences under 15 years old, using predefined criteria and various configurations of prompts and models.
+This repository contains the scripts and notebooks used during the **Testing Phase** of the text classification project based on Large Language Models (LLMs). The primary objective of the project is to evaluate and categorise texts according to their suitability for audiences under 15 years old, using predefined criteria and various configurations of prompts and models.
 
 ---
 
