@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Analysis Results</title>
+    <link rel="stylesheet" href="/static/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Analysis</h1>
+        <p>{{title}}</p>
+      </header>
+
+      <div class="grid">
+        <!-- Appropriateness Section -->
+        <div class="box appropriateness">
+          <i class="fas fa-check-circle icon"></i>
+          <h2>Appropriateness</h2>
+          <div class="progress-container">
+            <div class="progress-bar" id="progress-bar">
+              {{appropriateness}}
+            </div>
+          </div>
+        </div>
+
+        <!-- Analysis Section -->
+        <div class="box analysis">
+          <i class="fas fa-chart-pie icon"></i>
+          <h2>Analysis</h2>
+          <p>{{analysis}}</p>
+        </div>
+
+        <!-- Suggestions Section -->
+        <div class="box suggestions">
+          <i class="fas fa-lightbulb icon"></i>
+          <h2>Suggestions</h2>
+          <p>{{suggestion}}</p>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <p>© 2024 Semantic Analysis Tool. Built with ❤️ for web insights.</p>
+    </footer>
+    <script>
+      const progressBar = document.getElementById("progress-bar");
+        const appropriateness = {{ appropriateness }};
+        progressBar.style.width = `${appropriateness}%`;
+        progressBar.textContent = `${appropriateness}%`;
+    </script>
+  </body>
+</html>
